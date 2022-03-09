@@ -1,0 +1,11 @@
+str1="sri "
+str2="valli"
+print("string 1:",str1)
+print("string 2:",str2)
+str=str1+str2
+print("concatenated two differnt string:",str) 
+
+out put:
+string 1: sri 
+string 2: valli
+concatenated two differnt string: sri valli
